@@ -7,6 +7,7 @@ from os import path
 import sys
 from more_itertools import last
 
+
 ENTRIES_FILE = "entries.tmp"
 DOWNLOAD_VIDEOS = True
 
